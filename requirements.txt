@@ -1,0 +1,5 @@
+Flask~=3.0.3
+google-generativeai
+pyttsx3~=2.91
+
+google~=3.0.0
