@@ -3,3 +3,4 @@ google-generativeai
 pyttsx3~=2.91
 
 google~=3.0.0
+gunicorn==19.7.1
